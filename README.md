@@ -2,10 +2,12 @@
 
 ## Inspiration
 While taking my calculus class, there would be times when I would need a
-calculator to help. I tried the native calculator app on MacOS but it didn't
-have everything I was looking for. Often times, the Google calculator would be 
-my best bet, but I still didn't love it. Because of this issue, I wanted to
-create my own calculator application with keys to my desired specification.
+calculator to help. I tried the native calculator on MacOS but I didn't like
+how it didn't show everything I inputted. Oftentimes, the Google calculator
+would be my best bet, but I still didn't love it because it lacked some of
+the features the Apple one had. Because of this, I wanted to create my
+own calculator application that blended the best of these two
+apps.
 
 ## Process
 I was not familiar with Java GUIs, so I thought it'd be best to watch a tutorial
